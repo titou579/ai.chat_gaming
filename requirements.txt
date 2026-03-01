@@ -1,7 +1,2 @@
 flask
 gunicorn
-git add requirements.txt
-
-git commit -m "add gunicorn for render"
-
-git push
