@@ -1,2 +1,9 @@
-flask
-gunicorn
+flask==2.1.2
+Werkzeug==2.1.1
+gunicorn==20.1.0
+
+# For Render deployment:
+# Specify the Gunicorn version to use
+# Gunicorn WSGI serveur 
+
+gunicorn==20.1.0
